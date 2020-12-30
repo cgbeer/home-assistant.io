@@ -22,7 +22,7 @@ There is currently support for the following device types within Home Assistant:
 - **Switch**
 
 In order to activate the support, you will have to enable the integration inside the configuration panel.
-The supported devices in your network are automatically discovered, but if you want to control devices residing in other networks you will need to configure them manually as shown below.
+The supported devices in your network are automatically discovered, but if you want to control devices residing in other networks you will need to configure them manually as shown below. It is recommended that you set them up as static IP's when installing them to prevent them from being lost if the IP changes.
 
 ## Supported Devices
 
